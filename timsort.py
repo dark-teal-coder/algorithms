@@ -1,3 +1,5 @@
+from merge_sort import merge
+
 def timsort(array):
     min_run = 32
     n = len(array)
